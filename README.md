@@ -10,4 +10,4 @@
 
 ## Wallet App
 
-<img src="https://user-images.githubusercontent.com/97138841/211154432-6cb0cec2-09fa-4ef7-b193-7ed4e7232530.png"  width="270" height="500"/>
+<img src="https://user-images.githubusercontent.com/97138841/211154432-6cb0cec2-09fa-4ef7-b193-7ed4e7232530.png"  width="260" height="525"/>

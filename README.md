@@ -6,7 +6,7 @@
 
 - Flutter framework 공부를 위한 개인 저장소입니다.
 - Nomad Coders flutter-for-beginners lecture를 참고하였습니다.
-- Wallet App 외 2개의 앱을 구성합니다.  
+- StatelessWidget으로 구성된 Wallet App을 공부합니다.  
 
 ## Wallet App
 

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:toonflix/screens/home_screen.dart';
 
 void main() {
   runApp(App());
@@ -19,7 +20,7 @@ class App extends StatelessWidget {
         ),
         cardColor: const Color(0xFFF4EDDB),
       ),
-      home: Container(),
+      home: const HomeScreen(),
     );
   }
 }
